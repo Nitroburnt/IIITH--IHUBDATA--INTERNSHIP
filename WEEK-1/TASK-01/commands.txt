@@ -1,0 +1,6 @@
+
+ffmpeg -ss 00:00:39 -i Ferrari_F80.mp4 -frames:v 1 i1.jpg
+ffmpeg -ss 00:00:43 -i Ferrari_F80.mp4 -frames:v 1 i2.jpg
+ffmpeg -ss 00:00:41 -i Ferrari_F80.mp4 -frames:v 1 i3.jpg
+ffmpeg -ss 00:00:50 -i Ferrari_F80.mp4 -frames:v 1 i4.jpg
+ 	

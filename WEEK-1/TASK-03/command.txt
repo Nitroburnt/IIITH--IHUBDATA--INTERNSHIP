@@ -1,0 +1,1 @@
+ffmpeg -i compressed.mp4 -i bgm.mp3 -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -shortest final_output.mp4
