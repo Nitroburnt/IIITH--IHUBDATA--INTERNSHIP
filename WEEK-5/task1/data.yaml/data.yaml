@@ -1,0 +1,11 @@
+path: dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: bus
+  1: car
+  2: motorcycle
+  3: truck

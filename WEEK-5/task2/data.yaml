@@ -1,0 +1,10 @@
+path: .
+
+train: resized_train
+val: resized_val
+
+names:
+  0: bus
+  1: car
+  2: motorcycle
+  3: truck

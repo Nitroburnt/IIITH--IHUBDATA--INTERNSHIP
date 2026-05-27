@@ -1,0 +1,7 @@
+images/resized_val/frame_1392.jpg
+images/resized_val/frame_1406.jpg
+images/resized_val/frame_1420.jpg
+images/resized_val/frame_1435.jpg
+images/resized_val/frame_1449.jpg
+images/resized_val/frame_1464.jpg
+images/resized_val/frame_1478.jpg
